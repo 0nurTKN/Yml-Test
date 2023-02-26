@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Javascript Action
         id: greet
-        uses: actions/hello-worl-javascript-action@v1
+        uses: actions/hello-world-javascript-action@v1
         with:
           who-to-greet: Onur #who-to-greet taken from the actions library itself. its just a parametre that action creators declared
       - name: log greeting time
