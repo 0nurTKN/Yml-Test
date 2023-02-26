@@ -1,4 +1,4 @@
-name: workflow name
+name: Onur test work flow
 
 on: [push]
 
